@@ -25,7 +25,7 @@
 	url = https://github.com/qmk/printf
 =======
 	url = https://github.com/google/googletest
-[submodule "lufa"]
+[submodule "lib/lufa"]
 	path = lib/lufa
 	url = https://github.com/qmk/lufa
 >>>>>>> cf4daf601... Turn middle space into an escape button
