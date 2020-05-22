@@ -13,3 +13,6 @@
 [submodule "lib/googletest"]
 	path = lib/googletest
 	url = https://github.com/google/googletest
+[submodule "lufa"]
+	path = lufa
+	url = https://github.com/qmk/lufa
