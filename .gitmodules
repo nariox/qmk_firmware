@@ -14,5 +14,5 @@
 	path = lib/googletest
 	url = https://github.com/google/googletest
 [submodule "lufa"]
-	path = lufa
+	path = lib/lufa
 	url = https://github.com/qmk/lufa
