@@ -12,7 +12,6 @@
 	branch = master
 [submodule "lib/googletest"]
 	path = lib/googletest
-<<<<<<< HEAD
 	url = https://github.com/qmk/googletest
 [submodule "lib/lufa"]
 	path = lib/lufa
@@ -23,9 +22,3 @@
 [submodule "lib/printf"]
 	path = lib/printf
 	url = https://github.com/qmk/printf
-=======
-	url = https://github.com/google/googletest
-[submodule "lib/lufa"]
-	path = lib/lufa
-	url = https://github.com/qmk/lufa
->>>>>>> cf4daf601... Turn middle space into an escape button
